@@ -23,6 +23,21 @@
 
 * [Quickstart Azure Databricks](https://docs.microsoft.com/en-us/azure/databricks/scenarios/quickstart-create-databricks-workspace-portal?tabs=azure-portal)
 
+##### Create tables directly from imported data
+
+* [Introduction to importing, reading, and modifying data](https://docs.microsoft.com/en-us/azure/databricks/data/data)
+* [Databases and tables](https://docs.microsoft.com/en-us/azure/databricks/data/tables)
+* [Metastores](https://docs.microsoft.com/en-us/azure/databricks/data/metastores/)
+
+##### Ingest data into Azure Databricks
+
+* [Databricks integrations](https://docs.microsoft.com/en-us/azure/databricks/integrations/)
+
+##### Access data in Apache Spark formats and from external data sources
+
+* [Data sources](https://docs.microsoft.com/en-us/azure/databricks/data/data-sources/)
+* [Delta Lake guide](https://docs.microsoft.com/en-us/azure/databricks/delta/)
+
 #### Lab
 
 * [Github Actions pytest](https://github.com/noahgift/github-actions-pytest)
@@ -69,8 +84,12 @@
 
 * Topic: Getting started with MLflow Projects
 * Topic: Getting started with continuously deploying containerized Microservices
+* Topic: Getting started with Kubernetes and Container Orchestration Solutions
 
 #### Learning Objectives
+
+*   Compose MLflow Projects solutions
+*   Compose Containerized Microservice solutions
 
 #### Readings/Media
 
