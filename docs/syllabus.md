@@ -20,9 +20,13 @@
 
 #### Lab
 
+* [Github Actions pytest](https://github.com/noahgift/github-actions-pytest)
+
 #### Discussions
 
 #### Assignments
+
+* Build out your own Github repository with a Python scaffold of:  `Makefile`, `requirements.txt`, a source file, and a test file and do:  `make lint && make test && make format`.
 
 ### Week Two
 
