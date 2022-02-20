@@ -30,6 +30,7 @@
 #### Discussions
 
 * Why is CI (Continuous Integration) a foundational component for MLOps?
+* Why is logging, monitoring and instrumentation so critical with distributed systems?
 
 #### Assignments
 
