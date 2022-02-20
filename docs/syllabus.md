@@ -91,6 +91,9 @@
 
 #### Readings/Media
 
+* [MLflow Models](https://www.mlflow.org/docs/latest/models.html)
+* [MLflow Model Registry](https://www.mlflow.org/docs/latest/model-registry.html)
+
 #### Lab
 
 #### Discussions
