@@ -2,7 +2,8 @@
 
 ## Logistics
 
-* Six Hour Weekly Sessions
+* Six-Hour Weekly Sessions
+* Use [Azure Open Datasets](https://docs.microsoft.com/en-us/azure/open-datasets/dataset-catalog#AzureDatabricks)
 
 ## Week by Week Schedule
 
@@ -27,6 +28,8 @@
 * [Github Actions pytest](https://github.com/noahgift/github-actions-pytest)
 
 #### Discussions
+
+* Why is CI (Continuous Integration) a foundational component for MLOps?
 
 #### Assignments
 
