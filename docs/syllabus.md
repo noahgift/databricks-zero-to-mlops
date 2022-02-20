@@ -41,6 +41,7 @@
 #### Lab
 
 * [Github Actions pytest](https://github.com/noahgift/github-actions-pytest)
+* [quickstart-create-databricks-workspace-portal](https://docs.microsoft.com/azure/azure-databricks/quickstart-create-databricks-workspace-portal)
 
 #### Discussions
 
