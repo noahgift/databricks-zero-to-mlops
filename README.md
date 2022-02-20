@@ -10,7 +10,7 @@ A four week course on MLOps with Spark and Databricks.  By the end of this cours
 
 ## Pre-work before start
 
-* Need Azure Account for Databricks
+* [Need Free Azure Account for Databricks](https://azure.microsoft.com/free/)
 * [Follow Azure Databricks Quickstart](https://docs.microsoft.com/en-us/azure/databricks/scenarios/quickstart-create-databricks-workspace-portal?tabs=azure-portal)
 
 ## References
