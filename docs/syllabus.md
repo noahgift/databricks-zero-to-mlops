@@ -42,13 +42,24 @@
 
 #### Topics
 
+* Topic:  Getting with MLflow tracking
+* Topic:  Getting started with containerizing Microservices
+
 #### Learning Objectives
 
+*   Compose Spark MLflow tracking solutions
+*   Compose Containerized Microservice solutions
+
 #### Readings/Media
+
+* [.NET 6 on AWS for Containers using Cloud9](https://github.com/noahgift/dot-net-6-aws)
+* [Python MLOps Cookbook](https://github.com/noahgift/Python-MLOps-Cookbook)
 
 #### Lab
 
 #### Discussions
+
+* Deploy a containerized application to a Cloud Provider or Local Datacenter.
 
 #### Assignments
 
@@ -56,7 +67,8 @@
 
 #### Topics
 
-* Topic:  Getting Started with Databricks and Spark
+* Topic: Getting started with MLflow Projects
+* Topic: Getting started with continuously deploying containerized Microservices
 
 #### Learning Objectives
 
@@ -72,7 +84,8 @@
 
 #### Topics
 
-* Topic:  Getting Started with Databricks and Spark
+* Topic: Getting started with MLflow Models
+* Topic: Getting started with continuously deploying containerized Microservices
 
 #### Learning Objectives
 
