@@ -1,5 +1,9 @@
 # MLOps from Zero with Databricks
 
+## Logistics
+
+* Six Hour Weekly Sessions
+
 ## Week by Week Schedule
 
 ### Week One
