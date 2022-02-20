@@ -9,3 +9,5 @@ A four week course on MLOps with Spark and Databricks.  By the end of this cours
 ## Datasets
 
 ## Pre-work before start
+
+## References
