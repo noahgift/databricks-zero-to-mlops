@@ -10,6 +10,8 @@ A four week course on MLOps with Spark and Databricks.  By the end of this cours
 
 ## Datasets
 
+* [Azure Open Datasets](https://docs.microsoft.com/en-us/azure/open-datasets/dataset-catalog#AzureDatabricks)
+
 ## Pre-work before start
 
 * [Need Free Azure Account for Databricks](https://azure.microsoft.com/free/)
