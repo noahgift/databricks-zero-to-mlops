@@ -4,7 +4,7 @@ A four week course on MLOps with Spark and Databricks.  By the end of this cours
 
 ## Syllabus
 
-* [syllabus](https://github.com/noahgift/databricks-zero-to-mlops/blob/main/docs/syllabus.md)
+* [syllabus](docs/syllabus.md)
 
 ## Artifacts
 
