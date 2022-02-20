@@ -18,3 +18,4 @@ A four week course on MLOps with Spark and Databricks.  By the end of this cours
 ## References
 
 * [Azure Databricks](https://azure.microsoft.com/en-us/services/databricks/)
+* [Cloud Computing for Data Duke Course](https://github.com/noahgift/cloud-data-analysis-at-scale)
