@@ -10,4 +10,7 @@ A four week course on MLOps with Spark and Databricks.  By the end of this cours
 
 ## Pre-work before start
 
+* Need Azure Account for Databricks
+
+
 ## References
