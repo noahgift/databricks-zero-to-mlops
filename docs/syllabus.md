@@ -68,6 +68,8 @@
 
 #### Readings/Media
 
+* [MLflow tracking](https://www.mlflow.org/docs/latest/tracking.html)
+* [Databricks MLflow tracking](https://docs.databricks.com/applications/mlflow/tracking.html)
 * [.NET 6 on AWS for Containers using Cloud9](https://github.com/noahgift/dot-net-6-aws)
 * [Python MLOps Cookbook](https://github.com/noahgift/Python-MLOps-Cookbook)
 
@@ -75,12 +77,12 @@
 
 #### Discussions
 
-
+* How could experiment tracking increase productivity in a Data Science team?
 
 #### Assignments
 
+* Using an Azure Open Dataset perform several experiments using MLflow tracking and identify the best runs.
 * Deploy a containerized application to a Cloud Provider or Local Datacenter.
-
 
 ### Week Three: Spark MLflow Projects
 
