@@ -95,26 +95,34 @@
 #### Learning Objectives
 
 *   Compose MLflow Projects solutions
-*   Compose Containerized Microservice solutions
+*   Deploy Containerized Microservice solutions to a PaaS using Continuous Delivery
 
 #### Readings/Media
+
+* [AWS App Runner Containerized Flask](https://github.com/noahgift/fastapi)
 
 #### Lab
 
 #### Discussions
 
+* Why are containers an ideal mechanism for Continuous Delivery?
+
 #### Assignments
 
-* Run an MLflow Project on Databricks
+* Run an MLflow Project on Databricks using an Azure Open Dataset
+* Deploy a containerized FastAPI microservice to AWS App Runner or a similar PaaS using Continuous Delivery via a Container Registry.
 
 ### Week Four: Spark MLflow Models and Model Registry
 
 #### Topics
 
-* Topic: Getting started with MLflow Models
+* Topic: Getting started with MLflow Models and the Model Registery
 * Topic: Getting started with continuously deploying containerized Microservices
 
 #### Learning Objectives
+
+* Compose MLflow Model and Model Registery solutions
+* Deploy a model from the Model Registery
 
 #### Readings/Media
 
@@ -125,6 +133,9 @@
 
 #### Discussions
 
+* What are the advantages of versioning ML Models using the Model Registery?
+
 #### Assignments
 
-* Evaluate a model with `mlflow.evaluate`:  https://www.mlflow.org/docs/latest/models.html#id20
+* Evaluate a model with [`mlflow.evaluate`](https://www.mlflow.org/docs/latest/models.html#id20)
+* Deploy a model using the model registery after [training on an Azure Open Dataset](https://www.mlflow.org/docs/latest/model-registry.html#serving-an-mlflow-model-from-model-registry)
