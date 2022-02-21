@@ -75,9 +75,12 @@
 
 #### Discussions
 
-* Deploy a containerized application to a Cloud Provider or Local Datacenter.
+
 
 #### Assignments
+
+* Deploy a containerized application to a Cloud Provider or Local Datacenter.
+
 
 ### Week Three: Spark MLflow Projects
 
@@ -100,6 +103,8 @@
 
 #### Assignments
 
+* Run an MLflow Project on Databricks
+
 ### Week Four: Spark MLflow Models and Model Registry
 
 #### Topics
@@ -120,3 +125,4 @@
 
 #### Assignments
 
+* Evaluate a model with `mlflow.evaluate`:  https://www.mlflow.org/docs/latest/models.html#id20
