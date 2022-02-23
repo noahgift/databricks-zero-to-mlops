@@ -1,6 +1,6 @@
 # databricks-zero-to-mlops
 
-A four week course on MLOps with Spark and Databricks.  By the end of this course, you will be able to develop ML models using standardized workflows for data processing and model management and maintenance using open-source tools.
+A four week course on MLOps with Spark and Databricks.  By the end of this course, you will be able to develop ML models using standardized workflows for data processing and model management and maintenance using open-source tools.  This is accomplished by using PySpark and MLflow to build scalable and reproducible solutions using MLOps methodologies.
 
 ## Syllabus
 
