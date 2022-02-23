@@ -18,6 +18,7 @@
 
 *   Compose Continuous Integration solutions
 *   Compose Databricks/Spark Cluster Solutions
+*   Evaluate best practices for PySpark software engineering
 
 #### Readings/Media
 
