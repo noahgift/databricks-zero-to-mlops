@@ -123,8 +123,8 @@
 
 #### Learning Objectives
 
-* Compose MLflow Model and Model Registery solutions
-* Deploy a model from the Model Registery
+* Compose MLflow Model and Model Registry solutions
+* Deploy a model from the Model Registry
 
 #### Readings/Media
 
