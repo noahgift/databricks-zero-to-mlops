@@ -11,6 +11,7 @@ A four week course on MLOps with Spark and Databricks.  By the end of this cours
 ## Datasets
 
 * [Azure Open Datasets](https://docs.microsoft.com/en-us/azure/open-datasets/dataset-catalog#AzureDatabricks)
+* [Example Open Dataset (TartanAir)](https://docs.microsoft.com/en-us/azure/open-datasets/dataset-tartanair-simulation)
 
 ## Pre-work before start
 
