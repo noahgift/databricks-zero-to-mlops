@@ -1,5 +1,7 @@
 # MLOps from Zero with Databricks
 
+[Course Intro Video](https://drive.google.com/file/d/1uAgm0FBqtEUGb-DfF5TtXCGDefIf6-LA/view?usp=sharing)
+
 ## Logistics
 
 * Six-Hour Weekly Sessions
