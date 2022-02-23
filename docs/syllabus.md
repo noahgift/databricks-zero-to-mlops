@@ -97,6 +97,7 @@
 
 *   Compose MLflow Projects solutions
 *   Deploy Containerized Microservice solutions to a PaaS using Continuous Delivery
+*   Compose Kubernetes Container Orchestration Solutions
 
 #### Readings/Media
 
