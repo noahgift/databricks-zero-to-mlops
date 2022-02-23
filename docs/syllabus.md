@@ -47,7 +47,7 @@
 #### Discussions
 
 * Why is CI (Continuous Integration) a foundational component for MLOps?
-* Why is logging, monitoring and instrumentation so critical with distributed systems like Spark?
+* Why is logging, monitoring, and instrumentation so critical with distributed systems like Spark?
 
 #### Assignments
 
@@ -82,7 +82,7 @@
 
 #### Assignments
 
-* Using an Azure Open Dataset perform several experiments using MLflow tracking and identify the best runs.
+* Using an Azure Open Dataset perform several MLflow tracking experiments and identifies the best runs.
 * Deploy a containerized application to a Cloud Provider or Local Datacenter.
 
 ### Week Three: Spark MLflow Projects
@@ -112,13 +112,13 @@
 #### Assignments
 
 * Run an MLflow Project on Databricks using an Azure Open Dataset
-* Deploy a containerized FastAPI microservice to AWS App Runner or a similar PaaS using Continuous Delivery via a Container Registry.
+* Deploy a containerized FastAPI microservice to AWS App Runner.  Alternatively, use a similar PaaS using Continuous Delivery via a Container Registry.
 
 ### Week Four: Spark MLflow Models and Model Registry
 
 #### Topics
 
-* Topic: Getting started with MLflow Models and the Model Registery
+* Topic: Getting started with MLflow Models and the Model Registry
 * Topic: Getting started with continuously deploying containerized Microservices
 
 #### Learning Objectives
