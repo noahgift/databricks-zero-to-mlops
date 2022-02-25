@@ -6,6 +6,10 @@ A four week course on MLOps with Spark and Databricks.  By the end of this cours
 
 * [syllabus](docs/syllabus.md)
 
+## Demos and Deliverables
+
+This course includes a weekly demo video assignment. You will report on the progress of your ongoing project with a 30-90 second video, including screen-casting of your progress.  The reason for this weekly demo is to increase metacognition as well teach other students what you now, thus increasing the learning experience for everyone. 
+
 ## Artifacts
 
 ## Datasets
