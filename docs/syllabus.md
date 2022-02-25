@@ -26,11 +26,11 @@ A four week course on MLOps with Spark and Databricks.  By the end of this cours
 
 #### Part A Workshop
 
-* Lecture
+* Getting Started with Databricks and Spark
 
 #### Part B Workshop
 
-* Lecture
+* Getting Started with Continuous Integration
 
 #### Readings/Media
 
