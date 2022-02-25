@@ -53,7 +53,7 @@ A four week course on MLOps with Spark and Databricks.  By the end of this cours
 * Why is CI (Continuous Integration) a foundational component for MLOps?
 * Why is logging, monitoring, and instrumentation so critical with distributed systems like Spark?
 
-#### Assignments
+#### Assignments (Demo)
 
 * Build out your own Github repository with a Python scaffold of:  `Makefile`, `requirements.txt`, a source file, and a test file and do:  `make lint && make test && make format`.
 * Add a Jupyter Notebook to your Continuous Integration setup and test it with `pytest --nbval`. [nbval plugin reference](https://github.com/computationalmodelling/nbval). 
@@ -84,7 +84,7 @@ A four week course on MLOps with Spark and Databricks.  By the end of this cours
 
 * How could experiment tracking increase productivity in a Data Science team?
 
-#### Assignments
+#### Assignments (Demo)
 
 * Using an Azure Open Dataset, perform several MLflow tracking experiments and identify the best runs.
 * Deploy a containerized application to a Cloud Provider or Local Datacenter.
@@ -113,7 +113,7 @@ A four week course on MLOps with Spark and Databricks.  By the end of this cours
 
 * Why are containers an ideal mechanism for Continuous Delivery?
 
-#### Assignments
+#### Assignments (Demo)
 
 * Run an MLflow Project on Databricks using an Azure Open Dataset
 * Deploy a containerized FastAPI microservice to AWS App Runner.  Alternatively, use a similar PaaS using Continuous Delivery via a Container Registry.
@@ -141,7 +141,7 @@ A four week course on MLOps with Spark and Databricks.  By the end of this cours
 
 * What are the advantages of versioning ML Models using the Model Registry?
 
-#### Assignments
+#### Assignments (Demo)
 
 * Evaluate a model with [`mlflow.evaluate`](https://www.mlflow.org/docs/latest/models.html#id20)
 * Deploy a model using the model registry after [training on an Azure Open Dataset](https://www.mlflow.org/docs/latest/model-registry.html#serving-an-mlflow-model-from-model-registry)
