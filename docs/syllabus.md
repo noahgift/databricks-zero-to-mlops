@@ -6,7 +6,7 @@ A four week course on MLOps with Spark and Databricks.  By the end of this cours
 
 ## Logistics
 
-* Six-Hour Weekly Sessions
+* Two Three-Hour Weekly Sessions
 * Use [Azure Open Datasets](https://docs.microsoft.com/en-us/azure/open-datasets/dataset-catalog#AzureDatabricks)
 
 ## Week by Week Schedule
@@ -86,7 +86,7 @@ A four week course on MLOps with Spark and Databricks.  By the end of this cours
 
 #### Assignments
 
-* Using an Azure Open Dataset perform several MLflow tracking experiments and identifies the best runs.
+* Using an Azure Open Dataset, perform several MLflow tracking experiments and identify the best runs.
 * Deploy a containerized application to a Cloud Provider or Local Datacenter.
 
 ### Week Three: Spark MLflow Projects
@@ -139,9 +139,9 @@ A four week course on MLOps with Spark and Databricks.  By the end of this cours
 
 #### Discussions
 
-* What are the advantages of versioning ML Models using the Model Registery?
+* What are the advantages of versioning ML Models using the Model Registry?
 
 #### Assignments
 
 * Evaluate a model with [`mlflow.evaluate`](https://www.mlflow.org/docs/latest/models.html#id20)
-* Deploy a model using the model registery after [training on an Azure Open Dataset](https://www.mlflow.org/docs/latest/model-registry.html#serving-an-mlflow-model-from-model-registry)
+* Deploy a model using the model registry after [training on an Azure Open Dataset](https://www.mlflow.org/docs/latest/model-registry.html#serving-an-mlflow-model-from-model-registry)
