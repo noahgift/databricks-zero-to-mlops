@@ -24,6 +24,14 @@ A four week course on MLOps with Spark and Databricks.  By the end of this cours
 *   Compose Databricks/Spark Cluster Solutions
 *   Evaluate best practices for PySpark software engineering
 
+#### Part A Workshop
+
+* Lecture
+
+#### Part B Workshop
+
+* Lecture
+
 #### Readings/Media
 
 * [Quickstart Azure Databricks](https://docs.microsoft.com/en-us/azure/databricks/scenarios/quickstart-create-databricks-workspace-portal?tabs=azure-portal)
