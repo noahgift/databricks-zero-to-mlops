@@ -26,11 +26,11 @@ A four week course on MLOps with Spark and Databricks.  By the end of this cours
 
 #### Part A Workshop
 
-* Getting Started with Databricks and Spark
+* [Getting Started with Databricks and Spark](https://github.com/FourthBrain/databricks-zero-to-mlops/blob/main/docs/week1-notes.md#workshop-a--getting-started-with-databricks-and-spark)
 
 #### Part B Workshop
 
-* Getting Started with Continuous Integration
+* [Getting Started with Continuous Integration](https://github.com/FourthBrain/databricks-zero-to-mlops/blob/main/docs/week1-notes.md#workshop-b-getting-started-with-continuous-integration)
 
 #### Readings/Media
 
