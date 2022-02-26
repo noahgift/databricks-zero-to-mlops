@@ -23,6 +23,7 @@
 ### Section 1:  What is MLOPs?
 
 #### References
+* [slides-Getting Started with Continuous Integration for MLOps](https://docs.google.com/presentation/d/1yxQDmEODxkf1M29G_Gfjg9KJMGuLJuXYL-pXahVZ8dg/edit?usp=sharing)
 
 ### Section 2: 
 
