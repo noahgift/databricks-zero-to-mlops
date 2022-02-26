@@ -16,6 +16,6 @@
 
 ## Workshop B: Getting Started with Continuous Integration for MLOps
 
-### Section 1:  
+### Section 1:  What is MLOPs?
 ### Section 2:  
 ### Section 3:
