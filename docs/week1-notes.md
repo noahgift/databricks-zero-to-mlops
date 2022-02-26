@@ -4,18 +4,30 @@
 
 ### Section 1:  Configuring Spark Clusters in Databricks
 
+
 #### References
-* [Databricks Clusters](https://docs.microsoft.com/en-us/azure/databricks/clusters/)
+* Slides-Databricks Clusters
+* [Databricks Clusters Azure Docs](https://docs.microsoft.com/en-us/azure/databricks/clusters/)
 
 ### Section 2:  Using Databrick Notebooks
 
 #### References
-* [Databrick Notebooks](https://docs.microsoft.com/en-us/azure/databricks/notebooks/)
+* Slides-Databricks Clusters
+* [Databrick Notebooks Azure Docs](https://docs.microsoft.com/en-us/azure/databricks/notebooks/)
 
 ### Section 3:
+* Slides
 
 ## Workshop B: Getting Started with Continuous Integration for MLOps
 
 ### Section 1:  What is MLOPs?
-### Section 2:  
+
+#### References
+
+### Section 2: 
+
+#### References
+
 ### Section 3:
+
+#### References
