@@ -14,7 +14,7 @@
 
 ### Section 3:
 
-## Workshop B: Getting Started with Continuous Integration 
+## Workshop B: Getting Started with Continuous Integration for MLOps
 
 ### Section 1:  
 ### Section 2:  
