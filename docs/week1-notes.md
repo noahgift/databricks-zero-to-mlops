@@ -12,6 +12,6 @@
 
 ## Workshop B: Getting Started with Continuous Integration 
 
-### Section 1:  Configuring Spark Clusters in Databricks
+### Section 1:  
 ### Section 2:  
 ### Section 3:
