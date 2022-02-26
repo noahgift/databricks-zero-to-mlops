@@ -4,9 +4,8 @@
 
 ### Section 1:  Configuring Spark Clusters in Databricks
 
-
 #### References
-* Slides-Databricks Clusters
+* Slides-Spark Databricks Clusters
 * [Databricks Clusters Azure Docs](https://docs.microsoft.com/en-us/azure/databricks/clusters/)
 
 ### Section 2:  Using Databrick Notebooks
