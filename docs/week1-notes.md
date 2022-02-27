@@ -17,8 +17,9 @@
 
 ### Section 3:
 #### References
-* Slides
+* Slides-Using Data in Databricks Spark
 * [Creating Github Tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+* [Quickstart Query Data Azure](https://docs.microsoft.com/en-us/azure/databricks/scenarios/quickstart-create-databricks-workspace-portal?tabs=azure-portal)
 
 ## Workshop B: Getting Started with Continuous Integration for MLOps
 
