@@ -14,8 +14,11 @@
 * [Slides-Spark Databricks Notebooks](https://docs.google.com/presentation/d/1hgXX5cdcukZCQQhF6VZMNn9A8gLRVVoFe46Z2cHIZd4/edit?usp=sharing)
 * [Databrick Notebooks Azure Docs](https://docs.microsoft.com/en-us/azure/databricks/notebooks/)
 
+
 ### Section 3:
+#### References
 * Slides
+* [Creating Github Tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 
 ## Workshop B: Getting Started with Continuous Integration for MLOps
 
