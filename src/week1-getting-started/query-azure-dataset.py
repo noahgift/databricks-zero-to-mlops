@@ -50,7 +50,7 @@ spark.sql("CREATE TABLE default.people10m OPTIONS (PATH 'dbfs:/databricks-datase
 
 # COMMAND ----------
 
-people = spark.sql("select * from diamonds")
+people = spark.sql("select * from people10m")
 display(people.select("*"))
 
 # COMMAND ----------
@@ -60,7 +60,7 @@ display(people.select("*"))
 
 # COMMAND ----------
 
-people.describe(['price']).show()
+people.describe(['salary']).show()
 
 # COMMAND ----------
 
