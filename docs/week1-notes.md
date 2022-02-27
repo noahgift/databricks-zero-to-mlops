@@ -11,7 +11,7 @@
 ### Section 2:  Using Databrick Notebooks
 
 #### References
-* Slides-Spark Databricks Notebooks
+* [Slides-Spark Databricks Notebooks](https://docs.google.com/presentation/d/1hgXX5cdcukZCQQhF6VZMNn9A8gLRVVoFe46Z2cHIZd4/edit?usp=sharing)
 * [Databrick Notebooks Azure Docs](https://docs.microsoft.com/en-us/azure/databricks/notebooks/)
 
 ### Section 3:
