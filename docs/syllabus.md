@@ -61,12 +61,15 @@ A four week course on MLOps with Spark and Databricks.  By the end of this cours
 
 * Why is CI (Continuous Integration) a foundational component for MLOps?
 * Why is logging, monitoring, and instrumentation so critical with distributed systems like Spark?
+* What is the advantage of scheduling a notebook job in Databricks Spark?
+* What are two ways to use data in Databricks Spark?
 
 #### Assignments (Demo)
 
 * Build out your own Github repository with a Python scaffold of:  `Makefile`, `requirements.txt`, a source file, and a test file and do:  `make lint && make test && make format`.
 * Add a Jupyter Notebook to your Continuous Integration setup and test it with `pytest --nbval`. [nbval plugin reference](https://github.com/computationalmodelling/nbval). 
-* Perform Exploratory Data Analysis with a Databricks Spark Cluster using the [Azure Open Datasets](https://docs.microsoft.com/en-us/azure/open-datasets/dataset-catalog).
+* Perform Exploratory Data Analysis with a Databricks Spark Cluster using the [Azure Open Datasets](https://docs.microsoft.com/en-us/azure/open-datasets/dataset-catalog). imported data or Databricks sample datasets.
+* Schedule a notebook job to run nightly at midnight
 
 ### Week Two:  Spark MLflow Tracking
 
