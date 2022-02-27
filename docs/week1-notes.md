@@ -15,23 +15,24 @@
 * [Databrick Notebooks Azure Docs](https://docs.microsoft.com/en-us/azure/databricks/notebooks/)
 
 
-### Section 3:
+### Section 3: Using Data with Databricks Spark
 #### References
 * Slides-Using Data in Databricks Spark
 * [Creating Github Tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 * [Databricks datasets](https://docs.microsoft.com/en-us/azure/databricks/data/databricks-datasets)
 
-## Workshop B: Getting Started with Continuous Integration for MLOps
+## Workshop B: Foundational Pyspark Skills for MLOps
 
-### Section 1:  What is MLOPs?
+### Section 1:  Learning Pyspark
+
+#### References
+* 
+
+### Section 2: Developing with Databricks Workspaces and Repositories for Pyspark
+
+#### References
+
+### Section 3:  What is MLOps and Getting Started with Continuous Integration for MLOps
 
 #### References
 * [slides-Getting Started with Continuous Integration for MLOps](https://docs.google.com/presentation/d/1yxQDmEODxkf1M29G_Gfjg9KJMGuLJuXYL-pXahVZ8dg/edit?usp=sharing)
-
-### Section 2: 
-
-#### References
-
-### Section 3:
-
-#### References
