@@ -23,3 +23,45 @@ display(dbutils.fs.ls('/databricks-datasets'))
 # COMMAND ----------
 
 !ls -l /dbfs/databricks-datasets/COVID
+
+# COMMAND ----------
+
+# MAGIC %md
+# MAGIC ### Create table via spark SQL
+
+# COMMAND ----------
+
+spark.sql("CREATE TABLE default.people10m OPTIONS (PATH 'dbfs:/databricks-datasets/learning-spark-v2/people/people-10m.delta')")
+
+# COMMAND ----------
+
+# MAGIC %md
+# MAGIC ### Query Table in SQL
+
+# COMMAND ----------
+
+# MAGIC %sql
+# MAGIC SELECT * from people10m
+
+# COMMAND ----------
+
+# MAGIC %md
+# MAGIC ### Query data in Python
+
+# COMMAND ----------
+
+people = spark.sql("select * from diamonds")
+display(people.select("*"))
+
+# COMMAND ----------
+
+# MAGIC %md
+# MAGIC ### Describe Table Price Column
+
+# COMMAND ----------
+
+people.describe(['price']).show()
+
+# COMMAND ----------
+
+
