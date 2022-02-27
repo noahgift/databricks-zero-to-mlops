@@ -27,11 +27,13 @@
 ### Section 1:  Learning Pyspark
 
 #### References
-* 
+* [Example databricks notebooks](https://github.com/FourthBrain/databricks-zero-to-mlops/tree/main/src/week1-getting-started)
 
 ### Section 2: Developing with Databricks Workspaces and Repositories for Pyspark
 
 #### References
+* [Example databricks notebooks](https://github.com/FourthBrain/databricks-zero-to-mlops/tree/main/src/week1-getting-started)
+
 
 ### Section 3:  What is MLOps and Getting Started with Continuous Integration for MLOps
 
