@@ -57,6 +57,8 @@ display(people.select("*"))
 
 # MAGIC %md
 # MAGIC ### Describe Table Price Column
+# MAGIC 
+# MAGIC [Spark describe reference](https://spark.apache.org/docs/latest/api/python/reference/api/pyspark.sql.DataFrame.describe.html)
 
 # COMMAND ----------
 
