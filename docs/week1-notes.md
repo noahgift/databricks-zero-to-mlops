@@ -20,6 +20,7 @@
 * [Slides-Using Data in Databricks Spark](https://docs.google.com/presentation/d/1KQvpJjaRGvYkYLXduMm6SvxA_fNeI9V8VYrvGosJlGs/edit?usp=sharing)
 * [Creating Github Tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 * [Databricks datasets](https://docs.microsoft.com/en-us/azure/databricks/data/databricks-datasets)
+* [Example databricks notebooks](https://github.com/FourthBrain/databricks-zero-to-mlops/tree/main/src/week1-getting-started)
 
 ## Workshop B: Foundational Pyspark Skills for MLOps
 
