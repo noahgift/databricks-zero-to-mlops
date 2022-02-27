@@ -51,10 +51,11 @@ A four week course on MLOps with Spark and Databricks.  By the end of this cours
 * [Data sources](https://docs.microsoft.com/en-us/azure/databricks/data/data-sources/)
 * [Delta Lake guide](https://docs.microsoft.com/en-us/azure/databricks/delta/)
 
-#### Lab
+#### Labs
 
 * [Github Actions pytest](https://github.com/noahgift/github-actions-pytest)
 * [quickstart-create-databricks-workspace-portal](https://docs.microsoft.com/azure/azure-databricks/quickstart-create-databricks-workspace-portal)
+* [Example databricks notebooks](https://github.com/FourthBrain/databricks-zero-to-mlops/tree/main/src/week1-getting-started)
 
 #### Discussions
 
