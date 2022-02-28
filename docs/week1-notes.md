@@ -31,7 +31,7 @@
 * [Example databricks notebooks](https://github.com/FourthBrain/databricks-zero-to-mlops/tree/main/src/week1-getting-started)
 
 ### Section 2: Developing with Databricks Workspaces and Repositories for Pyspark
-* [slides-developing-with-workspaces-pyspark]
+* [slides-developing-with-workspaces-pyspark](https://docs.google.com/presentation/d/1hMQUwImigJljw4eXhhE0piIfBTctDk6llGIq1a8agag/edit?usp=sharing)
 #### References
 * [Example databricks notebooks](https://github.com/FourthBrain/databricks-zero-to-mlops/tree/main/src/week1-getting-started)
 
