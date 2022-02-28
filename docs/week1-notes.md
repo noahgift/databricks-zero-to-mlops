@@ -27,7 +27,7 @@
 ### Section 1:  Learning Pyspark
 
 #### References
-* [slides-learning-pyspark]
+* [slides-learning-pyspark](https://docs.google.com/presentation/d/1Irs50hbKpBcoF9CW0sPa-w8LooMYKydS6Vt7V0auQ0I/edit?usp=sharing)
 * [Example databricks notebooks](https://github.com/FourthBrain/databricks-zero-to-mlops/tree/main/src/week1-getting-started)
 
 ### Section 2: Developing with Databricks Workspaces and Repositories for Pyspark
