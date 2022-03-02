@@ -15,4 +15,26 @@ display(df.limit(10))
 
 # COMMAND ----------
 
+#upload more datasets (do tab complete)
+#from azureml.opendatasets import 
+
+# COMMAND ----------
+
+import numpy as np
+import pyspark.pandas as ps
+
+# COMMAND ----------
+
+psdf = ps.DataFrame(df)
+
+# COMMAND ----------
+
+psdf.describe()
+
+# COMMAND ----------
+
+display(psdf)
+
+# COMMAND ----------
+
 
