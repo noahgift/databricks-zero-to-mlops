@@ -68,7 +68,7 @@ A four week course on MLOps with Spark and Databricks.  By the end of this cours
 
 * Build out your own Github repository with a Python scaffold of:  `Makefile`, `requirements.txt`, a source file, and a test file and do:  `make lint && make test && make format`.
 * Add a Jupyter Notebook to your Continuous Integration setup and test it with `pytest --nbval`. [nbval plugin reference](https://github.com/computationalmodelling/nbval). 
-* Perform Exploratory Data Analysis with a Databricks Spark Cluster using the [Azure Open Datasets](https://docs.microsoft.com/en-us/azure/open-datasets/dataset-catalog). imported data or Databricks sample datasets.
+* Perform Exploratory Data Analysis with a Databricks Spark Cluster using the [Azure Open Datasets](https://docs.microsoft.com/en-us/azure/open-datasets/dataset-catalog). imported data or Databricks sample datasets. Please try both regular Pyspark as well as the new Pandas API.
 * Schedule a notebook job to run nightly at midnight
 * Create source code repository and integrate it with Databricks and build our a notebook in it you commit.
 
