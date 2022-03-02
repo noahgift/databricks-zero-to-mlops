@@ -30,6 +30,7 @@
 * [slides-learning-pyspark](https://docs.google.com/presentation/d/1Irs50hbKpBcoF9CW0sPa-w8LooMYKydS6Vt7V0auQ0I/edit?usp=sharing)
 * [Example databricks notebooks](https://github.com/FourthBrain/databricks-zero-to-mlops/tree/main/src/week1-getting-started)
 * [pandas api](https://docs.databricks.com/languages/python.html#pandas-api-on-spark)
+* [Azure Open Datasets Spark](https://github.com/Azure/OpenDatasetsNotebooks/blob/master/tutorials/data-access/01-weather-to-spark-dataframe.ipynb)
 
 ### Section 2: Developing with Databricks Workspaces and Repositories for Pyspark
 * [slides-developing-with-workspaces-pyspark](https://docs.google.com/presentation/d/1hMQUwImigJljw4eXhhE0piIfBTctDk6llGIq1a8agag/edit?usp=sharing)
