@@ -16,6 +16,7 @@ This course includes a weekly demo video assignment. You will report on the prog
 
 * [Azure Open Datasets](https://docs.microsoft.com/en-us/azure/open-datasets/dataset-catalog#AzureDatabricks)
 * [Example Open Dataset (TartanAir)](https://docs.microsoft.com/en-us/azure/open-datasets/dataset-tartanair-simulation)
+* [Example Open Dataset NyTaxi](https://github.com/MicrosoftDocs/azure-docs/blob/main/articles/machine-learning/tutorial-auto-train-models.md?context=azure%2fopen-datasets%2fcontext%2fopen-datasets-context)
 
 ## Pre-work before start
 
