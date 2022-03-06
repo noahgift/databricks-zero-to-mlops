@@ -1,13 +1,13 @@
 
 # Week 2
 
-## Workshop A:  Getting with MLflow tracking
+## Workshop A:  Getting with ML & MLflow tracking
 
 ### Section 1:  
-* [slides]
+* [slides-]
 
 #### References
-* 
+* [Databricks ML Quickstart: Model Training](https://docs.microsoft.com/en-us/azure/databricks/_static/notebooks/mlflow/ml-quickstart-training.html) 
 
 ### Section 2:  
 * [slides]
