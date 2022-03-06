@@ -1,7 +1,7 @@
 
 # Week 2
 
-## Workshop A:  
+## Workshop A:  Getting with MLflow tracking
 
 ### Section 1:  
 * [slides]
@@ -23,7 +23,7 @@
 #### References
 * 
 
-## Workshop B: 
+## Workshop B: Getting started with containerizing Microservices
 
 ### Section 1:  
 * [slides]
