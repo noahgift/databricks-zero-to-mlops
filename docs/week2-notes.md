@@ -4,7 +4,7 @@
 ## Workshop A:  Getting with ML & MLflow tracking
 
 ### Section 1:  
-* [slides-]
+* [slides-getting-started-ml-mlflow](https://docs.google.com/presentation/d/19S3-xW92iVv6F4OX0syGKhkSYHQOQZgQj6cmJB4uSXY/edit?usp=sharing)
 
 #### References
 * [Databricks ML Quickstart: Model Training](https://docs.microsoft.com/en-us/azure/databricks/_static/notebooks/mlflow/ml-quickstart-training.html) 
