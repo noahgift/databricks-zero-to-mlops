@@ -76,7 +76,7 @@ A four week course on MLOps with Spark and Databricks.  By the end of this cours
 
 #### Topics
 
-* Topic:  Getting with MLflow tracking
+* Topic:  Getting with ML & MLflow tracking
 * Topic:  Getting started with containerizing Microservices
 
 #### Learning Objectives
