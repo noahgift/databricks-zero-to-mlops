@@ -84,6 +84,11 @@ A four week course on MLOps with Spark and Databricks.  By the end of this cours
 *   Compose Spark MLflow tracking solutions
 *   Compose Containerized Microservice solutions
 
+#### Part A Workshop
+
+#### Part B Workshop
+
+
 #### Readings/Media
 
 * [MLflow tracking](https://www.mlflow.org/docs/latest/tracking.html)
@@ -116,6 +121,11 @@ A four week course on MLOps with Spark and Databricks.  By the end of this cours
 *   Deploy Containerized Microservice solutions to a PaaS using Continuous Delivery
 *   Compose Kubernetes Container Orchestration Solutions
 
+#### Part A Workshop
+
+#### Part B Workshop
+
+
 #### Readings/Media
 
 * [AWS App Runner Containerized Flask](https://github.com/noahgift/fastapi)
@@ -142,6 +152,11 @@ A four week course on MLOps with Spark and Databricks.  By the end of this cours
 
 * Compose MLflow Model and Model Registry solutions
 * Deploy a model from the Model Registry
+
+#### Part A Workshop
+
+#### Part B Workshop
+
 
 #### Readings/Media
 
