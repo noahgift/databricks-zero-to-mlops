@@ -86,7 +86,7 @@ A four week course on MLOps with Spark and Databricks.  By the end of this cours
 
 #### Part A Workshop
 
-* [Getting with MLflow tracking](https://github.com/FourthBrain/databricks-zero-to-mlops/blob/main/docs/week2-notes.md#workshop-a--getting-with-mlflow-tracking)
+* [Getting with ML & MLflow tracking](https://github.com/FourthBrain/databricks-zero-to-mlops/blob/main/docs/week2-notes.md#workshop-a--getting-with-mlflow-tracking)
 * [Getting started with containerizing Microservices](https://github.com/FourthBrain/databricks-zero-to-mlops/blob/main/docs/week2-notes.md#workshop-b-getting-started-with-containerizing-microservices)
 
 #### Part B Workshop
@@ -114,7 +114,7 @@ A four week course on MLOps with Spark and Databricks.  By the end of this cours
 
 #### Topics
 
-* Topic: Getting started with MLflow Projects
+* Topic: Getting started with ML & MLflow Projects
 * Topic: Getting started with continuously deploying containerized Microservices
 * Topic: Getting started with Kubernetes and Container Orchestration Solutions
 
