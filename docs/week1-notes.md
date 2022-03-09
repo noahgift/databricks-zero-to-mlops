@@ -13,7 +13,7 @@
 #### References
 * [Slides-Spark Databricks Notebooks](https://docs.google.com/presentation/d/1hgXX5cdcukZCQQhF6VZMNn9A8gLRVVoFe46Z2cHIZd4/edit?usp=sharing)
 * [Databrick Notebooks Azure Docs](https://docs.microsoft.com/en-us/azure/databricks/notebooks/)
-
+* [CI/CD for Databricks](https://docs.microsoft.com/en-us/azure/databricks/dev-tools/ci-cd/ci-cd-jenkins)
 
 ### Section 3: Using Data with Databricks Spark
 #### References
