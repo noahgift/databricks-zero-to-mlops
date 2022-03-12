@@ -14,7 +14,7 @@
 
 #### References
 * [mlflow-end-to-end-example](https://docs.microsoft.com/en-us/azure/databricks/_static/notebooks/mlflow/mlflow-end-to-end-example.html)
-* 
+* [invoking an mflow model from AutoML](https://github.com/FourthBrain/databricks-zero-to-mlops/tree/main/src/week2-mlflow/invoke_predictions)
 
 
 ### Section 3: 
