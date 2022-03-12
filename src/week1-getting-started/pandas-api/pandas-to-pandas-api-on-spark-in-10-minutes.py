@@ -17,6 +17,7 @@
 import numpy as np
 import pandas as pd
 import pyspark.pandas as ps
+import pandas as pd
 
 # COMMAND ----------
 
@@ -278,6 +279,14 @@ psidx = psdf.index
 # COMMAND ----------
 
 psidx.to_pandas().to_list()
+
+# COMMAND ----------
+
+df = psidx.to_pandas()
+
+# COMMAND ----------
+
+
 
 # COMMAND ----------
 
