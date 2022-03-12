@@ -49,6 +49,10 @@ df_loaded.head(5)
 
 # COMMAND ----------
 
+df_loaded.head(1).to_dict()
+
+# COMMAND ----------
+
 # MAGIC %md
 # MAGIC ### Select supported columns
 # MAGIC Select only the columns that are supported. This allows us to train a model that can predict on a dataset that has extra columns that are not used in training.
@@ -161,6 +165,10 @@ standardizer = StandardScaler()
 # MAGIC - Train (60% of the dataset used to train the model)
 # MAGIC - Validation (20% of the dataset used to tune the hyperparameters of the model)
 # MAGIC - Test (20% of the dataset used to report the true performance of the model on an unseen dataset)
+
+# COMMAND ----------
+
+df_loaded.columns
 
 # COMMAND ----------
 
@@ -358,3 +366,40 @@ if shap_enabled:
 
 # model_uri for the generated model
 print(f"runs:/{ mlflow_run.info.run_id }/model")
+
+# COMMAND ----------
+
+# MAGIC %md
+# MAGIC ### Loading model to make prediction
+
+# COMMAND ----------
+
+model_uri = f"runs:/51c0348482e042ea8e4b7983ab6bff99/model"
+
+model = mlflow.pyfunc.load_model(model_uri)
+#model.predict(input_X)
+
+# COMMAND ----------
+
+import pandas as pd
+data = {'author': {0: 'bigjim.com'},
+ 'published': {0: '2016-10-27T18:05:26.351+03:00'},
+ 'title': {0: 'aliens are coming to invade earth'},
+ 'text': {0: 'aliens are coming to invade earth'},
+ 'language': {0: 'english'},
+ 'site_url': {0: 'cnn.com'},
+ 'main_img_url': {0: 'https://2.bp.blogspot.com/-0mdp0nZiwMI/UYwYvexmW2I/AAAAAAAAVQM/7C_X5WRE_mQ/w1200-h630-p-nu/Edison-Stock-Ticker.jpg'},
+ 'type': {0: 'bs'},
+ 'title_without_stopwords': {0: 'aliens are coming to invade earth'},
+ 'text_without_stopwords': {0: 'aliens are coming to invade earth'},
+ 'hasImage': {0: 1.0}}
+df = pd.DataFrame(data=data)
+df.head()
+
+# COMMAND ----------
+
+model.predict(df)
+
+# COMMAND ----------
+
+
