@@ -7,6 +7,7 @@ A four week course on MLOps with Spark and Databricks.  By the end of this cours
 ## Logistics
 
 * Two Three-Hour Weekly Sessions
+* Weekly Office Hours
 * Use [Azure Open Datasets](https://docs.microsoft.com/en-us/azure/open-datasets/dataset-catalog#AzureDatabricks)
 
 ## Week by Week Schedule
