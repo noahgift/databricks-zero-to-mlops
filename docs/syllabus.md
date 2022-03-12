@@ -105,10 +105,12 @@ A four week course on MLOps with Spark and Databricks.  By the end of this cours
 #### Discussions
 
 * How could experiment tracking increase productivity in a Data Science team?
+* Why use automated, parallel hyperparameter tuning with MLFlow?
 
 #### Assignments (Demo)
 
 * Using an Azure Open Dataset, perform several MLflow tracking experiments and identify the best runs.
+* Using the [MLFlow Quickstart ML Notebook](https://github.com/FourthBrain/databricks-zero-to-mlops/blob/main/src/week2-mlflow/ML%20Quickstart:%20Model%20Training.py), experiment with Hyperparameter algorithms and parallelization (i.e 2 vs 8).  
 * Deploy a containerized application to a Cloud Provider or Local Datacenter.
 
 ### Week Three: Spark MLflow Projects
