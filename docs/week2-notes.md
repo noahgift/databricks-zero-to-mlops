@@ -10,7 +10,8 @@
 * [Databricks ML Quickstart: Model Training](https://docs.microsoft.com/en-us/azure/databricks/_static/notebooks/mlflow/ml-quickstart-training.html) 
 
 ### Section 2:  
-* [slides-Databricks:  End to End ML](https://docs.google.com/presentation/d/1WDYfsog6a9JpCnYouzkPt78VJrGWX1kAj7PcA-Z1n3Q/edit?usp=sharing)
+* [slides-Databricks: Ingest Kaggle to AutoML](https://docs.google.com/presentation/d/1VCHNw_T9mVfYbH72sKCnzk2FMma3b_mX_nCsbHu1RpU/edit?usp=sharing)
+* [slides-Databricks:  End to End ML with Hyperparameters](https://docs.google.com/presentation/d/1WDYfsog6a9JpCnYouzkPt78VJrGWX1kAj7PcA-Z1n3Q/edit?usp=sharing)
 
 #### References
 * [mlflow-end-to-end-example](https://docs.microsoft.com/en-us/azure/databricks/_static/notebooks/mlflow/mlflow-end-to-end-example.html)
