@@ -100,7 +100,10 @@ A four week course on MLOps with Spark and Databricks.  By the end of this cours
 * [.NET 6 on AWS for Containers using Cloud9](https://github.com/noahgift/dot-net-6-aws)
 * [Python MLOps Cookbook](https://github.com/noahgift/Python-MLOps-Cookbook)
 
+
 #### Lab
+
+* [MLFlow Project Best Practices-End to End Fake News Pipeline](https://github.com/noahgift/mlflow-project-best-practices)
 
 #### Discussions
 
