@@ -11,7 +11,7 @@
 * Multiple people working on the same project
 
 #### References
-* 
+* [Deep Learning on Azure Databricks](https://docs.microsoft.com/en-us/azure/databricks/applications/machine-learning/train-model/deep-learning)
 
 ## Workshop: 
 
