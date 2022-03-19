@@ -29,7 +29,7 @@
 * [slides]
 
 #### Learning Objectives
-* Compare multiple MLOps frameworks:  Databricks/MLFlow vs AWS Sagemaker vs Azure ML Studio vs MLRun vs Kubeflow
+* Compare multiple MLOps frameworks:  Databricks/MLFlow vs AWS Sagemaker vs Azure ML Studio vs MLRun vs Kubeflow vs Vertex AI
 
 #### References
 
