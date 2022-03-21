@@ -91,8 +91,8 @@ model.compile(loss="mse",
 from tensorflow.keras.callbacks import ModelCheckpoint, EarlyStopping
 
 # In the following lines, replace <username> with your username.
-experiment_log_dir = "/dbfs/<username>/tb"
-checkpoint_path = "/dbfs/<username>/keras_checkpoint_weights.ckpt"
+experiment_log_dir = "/dbfs/noah.gift@gmail.com/tb"
+checkpoint_path = "/dbfs/noah.gift@gmail.com/keras_checkpoint_weights.ckpt"
 
 tensorboard_callback = tf.keras.callbacks.TensorBoard(log_dir=experiment_log_dir)
 model_checkpoint = ModelCheckpoint(filepath=checkpoint_path, verbose=1, save_best_only=True)
@@ -315,6 +315,19 @@ new_model_version = mlflow.register_model(model_uri, model_name)
 
 # Registering the model takes a few seconds, so add a delay before continuing with the next cell
 time.sleep(5)
+
+# COMMAND ----------
+
+# MAGIC %md
+# MAGIC Save model locally
+
+# COMMAND ----------
+
+pwd
+
+# COMMAND ----------
+
+mlflow.sklearn.save_model(model, "/databricks/driver/keras-out")
 
 # COMMAND ----------
 
