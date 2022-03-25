@@ -26,6 +26,16 @@ target_col = "label"
 # COMMAND ----------
 
 from mlflow.tracking import MlflowClient
+input_client = MlflowClient()
+mlflow.get_tracking_uri()
+
+# COMMAND ----------
+
+input_client.
+
+# COMMAND ----------
+
+from mlflow.tracking import MlflowClient
 import os
 import uuid
 import shutil

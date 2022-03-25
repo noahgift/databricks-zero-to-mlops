@@ -9,6 +9,7 @@ A four week course on MLOps with Spark and Databricks.  By the end of this cours
 * Two Three-Hour Weekly Sessions
 * Weekly Office Hours
 * Use [Azure Open Datasets](https://docs.microsoft.com/en-us/azure/open-datasets/dataset-catalog#AzureDatabricks)
+* [Final Three Sessions](https://github.com/FourthBrain/databricks-zero-to-mlops/blob/main/docs/final-three-sessions.md)
 
 ## Week by Week Schedule
 
@@ -100,7 +101,10 @@ A four week course on MLOps with Spark and Databricks.  By the end of this cours
 * [.NET 6 on AWS for Containers using Cloud9](https://github.com/noahgift/dot-net-6-aws)
 * [Python MLOps Cookbook](https://github.com/noahgift/Python-MLOps-Cookbook)
 
+
 #### Lab
+
+* [MLFlow Project Best Practices-End to End Fake News Pipeline](https://github.com/noahgift/mlflow-project-best-practices)
 
 #### Discussions
 
@@ -112,6 +116,7 @@ A four week course on MLOps with Spark and Databricks.  By the end of this cours
 * Using an Azure Open Dataset, perform several MLflow tracking experiments and identify the best runs.
 * Using the [MLFlow Quickstart ML Notebook](https://github.com/FourthBrain/databricks-zero-to-mlops/blob/main/src/week2-mlflow/ML%20Quickstart:%20Model%20Training.py), experiment with Hyperparameter algorithms and parallelization (i.e 2 vs 8). 
 * Perform an AutoML Experiment either on your own dataset or a built in dataset.  After you find the best model check in this notebook into your Repo. 
+* Setup your own end to end Ingest to AutoML to Endpoint to Script and Test it in Github Actions.  Example project here: https://github.com/noahgift/mlflow-project-best-practices
 * Deploy a containerized application to a Cloud Provider or Local Datacenter.
 
 ### Week Three: Spark MLflow Projects

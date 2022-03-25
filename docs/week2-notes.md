@@ -4,13 +4,15 @@
 ## Workshop A:  Getting with ML & MLflow tracking
 
 ### Section 1:  
-* [slides-getting-started-ml-mlflow](https://docs.google.com/presentation/d/19S3-xW92iVv6F4OX0syGKhkSYHQOQZgQj6cmJB4uSXY/edit?usp=sharing)
+* [slides-getting-started-ml-mlflow](https://docs.google.com/presentation/d/1CK3Fz_mN5x9yhXtAAB3VHThRF1-GxMFo23c7UIDSMMY/edit?usp=sharing)
 
 #### References
 * [Databricks ML Quickstart: Model Training](https://docs.microsoft.com/en-us/azure/databricks/_static/notebooks/mlflow/ml-quickstart-training.html) 
 
 ### Section 2:  
-* [slides-Databricks:  End to End ML](https://docs.google.com/presentation/d/1WDYfsog6a9JpCnYouzkPt78VJrGWX1kAj7PcA-Z1n3Q/edit?usp=sharing)
+* [slides-Databricks: Ingest Kaggle to AutoML](https://docs.google.com/presentation/d/1VCHNw_T9mVfYbH72sKCnzk2FMma3b_mX_nCsbHu1RpU/edit?usp=sharing)
+* [slides-Databricks:  End to End ML with Hyperparameters](https://docs.google.com/presentation/d/1WDYfsog6a9JpCnYouzkPt78VJrGWX1kAj7PcA-Z1n3Q/edit?usp=sharing)
+* [Invoke ML Model Example Github Project](https://github.com/noahgift/mlflow-project-best-practices)
 
 #### References
 * [mlflow-end-to-end-example](https://docs.microsoft.com/en-us/azure/databricks/_static/notebooks/mlflow/mlflow-end-to-end-example.html)
