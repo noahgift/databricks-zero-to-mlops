@@ -27,6 +27,8 @@ This course includes a weekly demo video assignment. You will report on the prog
 
 ## References
 
+* [MLOps Platforms YouTube Video](https://www.youtube.com/watch?v=PUXhWZQW8BI)
+* [MLOps Platforms YouTube Video](https://learning.oreilly.com/videos/mlops-platforms-from/032232022VIDEOPAIML/)
 * [Azure Databricks](https://azure.microsoft.com/en-us/services/databricks/)
 * [Cloud Computing for Data Duke Course](https://github.com/noahgift/cloud-data-analysis-at-scale)
 * [Learning Spark 2nd Edition](https://pages.databricks.com/rs/094-YMS-629/images/LearningSpark2.0.pdf)
