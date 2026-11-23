@@ -32,3 +32,11 @@ This course includes a weekly demo video assignment. You will report on the prog
 * [Azure Databricks](https://azure.microsoft.com/en-us/services/databricks/)
 * [Cloud Computing for Data Duke Course](https://github.com/noahgift/cloud-data-analysis-at-scale)
 * [Learning Spark 2nd Edition](https://pages.databricks.com/rs/094-YMS-629/images/LearningSpark2.0.pdf)
+
+<!-- funnel:start -->
+---
+
+**Learn data engineering:** [Databricks Lakehouse Fundamentals (Coursera)](https://www.coursera.org/learn/databricks-lakehouse-fundamentals?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=databricks-zero-to-mlops) · [Data Engineering Foundations program (edX)](https://www.edx.org/certificates/professional-certificate/ai-data-engineering-foundations?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=databricks-zero-to-mlops)
+
+More courses from [Noah Gift](https://github.com/noahgift) and Pragmatic AI Labs.
+<!-- funnel:end -->
