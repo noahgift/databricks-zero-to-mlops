@@ -32,3 +32,7 @@ This course includes a weekly demo video assignment. You will report on the prog
 * [Azure Databricks](https://azure.microsoft.com/en-us/services/databricks/)
 * [Cloud Computing for Data Duke Course](https://github.com/noahgift/cloud-data-analysis-at-scale)
 * [Learning Spark 2nd Edition](https://pages.databricks.com/rs/094-YMS-629/images/LearningSpark2.0.pdf)
+
+<!-- FUNNEL-001 footer: replace databricks-zero-to-mlops with the repo name -->
+---
+📚 **Learn this hands-on:** [Pragmatic AI Labs courses on Coursera](https://www.coursera.org/partners/pragmatic-ai-labs?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=databricks-zero-to-mlops) · ✉ [Free newsletter](https://ds500.paiml.com/mailing?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=databricks-zero-to-mlops)
